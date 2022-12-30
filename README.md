@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/devon gribbin](https://www.linkedin.com/in/devon-gribbin-693812a1/?profileId=ACoAABWn0k8B-YCapqrg7Dt0CqI0bEJeKfEpB3Y)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devon gribbin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/devon-gribbin-693812a1/?profileid=acoaabwn0k8b-ycapqrg7dt0cqi0bejekfepb3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devon-gribbin-693812a1/?profileid=acoaabwn0k8b-ycapqrg7dt0cqi0bejekfepb3y" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14584423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14584423" height="30" width="40" /></a>
 </p>
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flash-point&show_icons=true&locale=en" alt="flash-point" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flash-point&" alt="flash-point" /></p>
+
